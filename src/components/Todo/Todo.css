@@ -1,0 +1,32 @@
+html {
+    background-color: #e7e7e7;
+}
+.card {
+    display: flex;
+    flex-direction: column;
+    width: 700px;
+    max-width: 90%;
+    background-color: #fff;
+    border-radius: 20px;
+    text-align: center;
+    padding: 10px;
+    margin: 30px auto;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #bebebe;
+}
+
+.button {
+    padding: 10px;
+    width: 70px;
+    margin-top: 20px;
+    border-radius: 20px;
+    cursor: pointer;
+    align-items: center;
+}
+
+.delete-button {
+    border: none;
+    cursor: pointer;
+    background-color: #fff;
+}
